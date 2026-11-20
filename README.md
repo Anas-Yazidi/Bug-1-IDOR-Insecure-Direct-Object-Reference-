@@ -1,15 +1,4 @@
-# 🐛 Bug-1-IDOR-Insecure-Direct-Object-Reference
-
-I'm Anas Yazidi, an aspiring Bug Bounty Hunter. I'm starting a new learning series where I explore and share one security vulnerability per day — breaking down how it works, why it matters, how it can be identified, and how it can be prevented.
-
-🔎 **1 Day → 1 Vulnerability → 1 Lesson Learned**
-
-This is just the beginning. 🚀
-
-If you're also a beginner in Bug Bounty Hunting, follow this series to learn the fundamentals of web security, understand common vulnerabilities, and build your knowledge step by step.
-
----
-
+Bug #1  : IDOR
 ## 🔎 What's an IDOR?
 
 **IDOR (Insecure Direct Object Reference)** is an access control vulnerability that occurs when an application allows users to access another user's resources without properly verifying their permissions.
