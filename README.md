@@ -7,7 +7,7 @@ If you're also a beginner in Bug Bounty Hunting, follow this series to learn the
 This is just the beginning. 🚀
 ---
 <p align="center">
-  <img src="blob:https://chatgpt.com/4d83d3bb-f6fb-4d8d-aca3-5dc6844a589c" alt="IDOR example" width="700">
+  <img src="blob:https://chatgpt.com/4d83d3bb-f6fb-4d8d-aca3-5dc6844a589c="IDOR example" width="700">
 </p>
 ## 🔎 What's an IDOR?
 
