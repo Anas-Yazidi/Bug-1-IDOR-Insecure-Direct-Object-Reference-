@@ -6,9 +6,6 @@ If you're also a beginner in Bug Bounty Hunting, follow this series to learn the
 
 This is just the beginning. 🚀
 ---
-<p align="center">
-  <img src="blob:https://chatgpt.com/4d83d3bb-f6fb-4d8d-aca3-5dc6844a589c" width="700">
-</p>
 ## 🔎 What's an IDOR?
 
 **IDOR (Insecure Direct Object Reference)** is an access control vulnerability that occurs when an application allows users to access another user's resources without properly verifying their permissions.
